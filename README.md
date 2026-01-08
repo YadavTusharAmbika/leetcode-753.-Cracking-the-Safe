@@ -1,4 +1,5 @@
 step 1
+
 create empty memory
 store combination we already used
 final answer being built
@@ -45,6 +46,7 @@ reverse the list reverse (0,0,1,1
 then 1,1,0,0,
 .join (1,1,0,0,
 1100
+
 start +.....
 if n = 2 n-1
 start from 0 +0+1100+"01100
